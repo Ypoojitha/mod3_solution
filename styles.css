@@ -128,7 +128,7 @@ section div {
   text-align: center;
 }
 #nav-list a:hover {
-  background: blue;
+  background: grey;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
